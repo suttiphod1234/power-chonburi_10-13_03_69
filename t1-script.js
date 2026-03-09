@@ -3,7 +3,7 @@
  */
 
 // REPLACE THIS with your T1 Google Apps Script Web App URL
-const scriptURL = 'YOUR_T1_APPS_SCRIPT_URL_HERE';
+const scriptURL = 'https://script.google.com/macros/s/AKfycbze3P2YDa5be_9bk9mCrSn4v-zbyF7QyLoyGrPpae8YZKpylNjZfOjf9QPC81ytnXuO/exec';
 
 const form = document.getElementById('t1Form');
 const modal = document.getElementById('successModal');
