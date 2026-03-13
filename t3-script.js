@@ -3,7 +3,7 @@
  */
 
 // REPLACE THIS with your T3 Google Apps Script Web App URL after deployment
-const scriptURL = 'https://script.google.com/macros/s/AKfycbwnrV4UYj44ePZ96K5ENhOVp5UfZZjm89eQBjZ_3YP8T1z6hb-aNClshQvpZddtS5Zh/exec';
+const scriptURL = 'https://script.google.com/macros/s/AKfycbyjl_F7aXn_WD7sROPVAby6MJnbrIc7xaBUpTGzwIGn32m8GXQKh_nEsDqnW5O5Qd2i/exec';
 
 const form = document.getElementById('t3Form');
 const modal = document.getElementById('successModal');
