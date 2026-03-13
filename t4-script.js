@@ -3,7 +3,7 @@
  */
 
 // REPLACE THIS with your T4 Google Apps Script Web App URL after deployment
-const scriptURL = 'https://script.google.com/macros/s/AKfycbyjl_F7aXn_WD7sROPVAby6MJnbrIc7xaBUpTGzwIGn32m8GXQKh_nEsDqnW5O5Qd2i/exec';
+const scriptURL = 'https://script.google.com/macros/s/AKfycbzaQU2YSM9Jket2qaBUlvQUeOSgxGCPOUIL_lOEl7fJjXmoT3C022qCJULxfVY_iQ/exec';
 
 const form = document.getElementById('t4Form');
 const modal = document.getElementById('successModal');
